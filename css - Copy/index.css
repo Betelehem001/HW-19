@@ -1,0 +1,52 @@
+.logo {
+    background-color: rgb(231, 220, 229);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .logo a {
+    float: right
+;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .logo1 a {
+    float: left
+;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  /* Change the color of links on hover */
+  .logo a:hover {
+    background-color: rgb(7, 7, 7);
+    color: rgb(170, 121, 154);
+  }
+  
+  /* Add a color to the active/current link */
+  .logo a.active {
+    background-color: #000000;
+    color: white;
+  }
+  body {
+    background-color: rgb(216, 193, 212);
+  }
+.content {
+  padding-left: 50%;
+  display: block; 
+}
+h1{
+  padding-left: 50%;
+}
+button {
+  display: block;
+}
+.Block {
+  display: block;
+
+}
